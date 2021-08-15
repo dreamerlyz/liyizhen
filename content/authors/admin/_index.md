@@ -5,7 +5,7 @@ avatar_filename: ""
 bio: My research interests include cultural geography and GIS.
 interests:
   - Urbanization Process
-  - Cultural Geography
+  - Migration
   - GIS
 social:
   - icon: envelope
