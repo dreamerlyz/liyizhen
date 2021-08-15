@@ -1,41 +1,25 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: example
+url_pdf: ""
+title: Urbanization in Hangzhou of China, 1978 – 2021Urbanization in Hangzhou of
+  China, 1978 – 2021
+summary: Dual-track urbanization; State-sponsored urbanization; Spontaneous
+  urbanization; Hangzhou; China;
+url_video: ""
+date: 2021-08-15T03:22:22.781Z
+external_link: https://liyizhen.netlify.app/
+url_slides: ""
+subtitle: Causes and Consequences from Dual Track Urbanization Perspective
+tags:
+  - UrbanizationProcess
+links: []
+image:
+  caption: Figure by Yizhen
+  focal_point: Smart
+  filename: population_density_v10_2.svg
+url_code: ""
 ---
+In this project, we ascertained that Hangzhou's urbanization is driven by two tracks. The first track is state-sponsored focusing on the spatial expansion of cities and the construction of urban economy transformation through policies and master plans. The second track is informal and spontaneous urbanization. It can be reflected in industrial structure dynamics, initiated by local enterprisers, who operate private sectors, and by local and migrant residents who are devoted to new types of economy, namely digital economy. The model of dual-track urbanization features a considerable degree of credibility in that it has contributed to Hangzhou’s significant economic growth, the construction of urban economy transformation, and economic booms. It has engendered rapid urbanization with Hangzhou’s characteristics. However, the model of dual-track urbanization also faces major problems of sustainability and complexity. The heavy blending and interaction between state policies and local people’s subjectivity increase the difficulty of distinguishing which party essentially brings the most contribution to the urban economy and the city’s urbanization. Meanwhile, rapid urbanization takes place by undermining the balanced development in all regions, thus an unbalanced digital economy-level could be seen among regions, increasing spatial urbanization inequality.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Rooted in Hangzhou’s particular government-sponsored policies and plans, and the spontaneous floating and innovation of Hangzhou’s people and migrants, especially businessmen, the dual-track urbanization illuminates the importance of distinguishing form from function to better understand the operation and impacts of agents, namely government and residents. As a spatial result of the dual-track urbanization, Hangzhou has emerged as a form of a metropolis. Apparently, Hangzhou’s current model of urbanization rallies sufficient credibility as it has generated rapid economic growth and met the demand of various actors – from residents to businessmen, to migrants. However, the credibility might be limited to a degree of complexity and appears to be evidence of an increased merging between the two tracks which is now presenting challenges to the credibility of the strictly two-track divergence model.
