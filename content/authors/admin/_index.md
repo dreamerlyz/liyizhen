@@ -1,9 +1,8 @@
 ---
 title: LI Yizhen
 role: Student of Resource and Environmental Science
-avatar_filename: 照片.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: ""
+bio: My research interests include cultural geography and GIS.
 interests:
   - Urbanization Process
   - Cultural Geography
@@ -17,22 +16,15 @@ organizations:
     url: https://www.zju.edu.cn/english/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: BSc Candidate in Resource and Environmental Science
+      institution: Zhejiang University
+      year: 2007
+email: 3180101168@zju.edu.cn
 superuser: true
+user_groups:
+  - Zhejiang University
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+LI Yizhen is a fourth-year undergraduate student of resource and environmental science at Zhejiang University. Her research interests include cultural geography, especially in the urbanization and the migration process. She tries to combine GIS with human geography, casting qualitative as well as quantitative insights on the socio-cultural phenomenon.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
