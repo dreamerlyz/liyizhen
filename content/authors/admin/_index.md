@@ -18,7 +18,7 @@ education:
   courses:
     - course: BSc Candidate in Resource and Environmental Science
       institution: Zhejiang University
-      year: 2007
+      year: ""
 email: 3180101168@zju.edu.cn
 superuser: true
 user_groups:
