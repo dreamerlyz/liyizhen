@@ -1,9 +1,12 @@
 ---
-title: Publication
+title: Urbanization in Hangzhou of China, 1978 – 2021
+subtitle: Causes and Consequences from Dual Track Urbanization Perspective
 publication_types:
-  - "0"
-draft: false
-featured: false
+  - "7"
+authors:
+  - LI Yizhen
+draft: true
+featured: true
 image:
   filename: featured
   focal_point: Smart
