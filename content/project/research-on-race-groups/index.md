@@ -1,6 +1,6 @@
 ---
-title: Research on race groups
-subtitle: from a perspective of anthropology
+title: Research on race groups from a perspective of anthropology
+subtitle: ""
 date: 2021-08-15T06:31:45.339Z
 draft: false
 featured: false
@@ -8,7 +8,7 @@ tags:
   - EthnicGroups
 external_link: https://liyizhen.netlify.app/
 image:
-  filename: featured
+  filename: 路线图.png
   focal_point: Smart
   preview_only: false
 ---
