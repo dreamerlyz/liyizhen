@@ -1,7 +1,7 @@
 ---
 title: LI Yizhen
 role: Student of Resource and Environmental Science
-avatar_filename: 照片.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
