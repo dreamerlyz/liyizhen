@@ -1,7 +1,7 @@
 ---
+draft: true
 slides: example
 url_pdf: ""
-title: Urbanization in Hangzhou of China, 1978 – 2021
 summary: This paper examines the urbanization process in Hangzhou of China from
   1978 to 2021 from the perspective of dual-track urbanization. The first track
   urbanization is sponsored by local government and state, and the second is a
@@ -26,6 +26,7 @@ url_video: ""
 date: 2021-08-15T03:22:22.781Z
 external_link: https://liyizhen.netlify.app/
 url_slides: ""
+title: Urbanization in Hangzhou of China, 1978 – 2021
 subtitle: Causes and Consequences from Dual Track Urbanization Perspective
 tags:
   - UrbanizationProcess
