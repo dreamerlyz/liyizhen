@@ -1,8 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-title: Urbanization in Hangzhou of China, 1978 – 2021Urbanization in Hangzhou of
-  China, 1978 – 2021
+title: Urbanization in Hangzhou of China, 1978 – 2021
 summary: Dual-track urbanization; State-sponsored urbanization; Spontaneous
   urbanization; Hangzhou; China;
 url_video: ""
