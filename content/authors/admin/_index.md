@@ -1,6 +1,6 @@
 ---
 title: LI Yizhen
-role: Student of Resource and Environmental Science
+role: Undergraduate Student of Resource and Environmental Science
 avatar_filename: ""
 bio: My research interests include cultural geography and GIS.
 interests:
