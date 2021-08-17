@@ -1,14 +1,19 @@
 ---
 title: Research on race groups from a perspective of anthropology
 subtitle: ""
+summary: The anti-racism movement brought the word "race" back to life and politics. However, how to define race and whether there is a clear definition between races are not clear.
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+tags: 
+- Art
+- EthnicGroups
 date: 2021-08-15T06:31:45.339Z
 draft: false
 featured: false
-tags:
-  - EthnicGroups
-external_link: https://liyizhen.netlify.app/
 image:
-  filename: 路线图.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---

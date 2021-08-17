@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Cultural Anthropology
-    tag: research-on-race-groups
-  - name: Urbanization
-    tag: example
+  - name: Art
+    tag: Art
+  - name: Science
+    tag: Science
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -41,8 +41,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: Ture
+  flip_alt_rows: False
 ---
