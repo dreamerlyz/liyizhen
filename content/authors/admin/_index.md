@@ -36,4 +36,4 @@ highlight_name: false
 ---
 LI Yizhen is a fourth-year undergraduate student majoring in resource and environmental science at Zhejiang University. Her research interests include cultural geography and GIS, especially in the urbanization and the migration process. She tries to combine GIS with human geography, casting qualitative as well as quantitative insights on the socio-cultural phenomenon.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
