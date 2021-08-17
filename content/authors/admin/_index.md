@@ -10,13 +10,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:3180101168@zju.edu.cn"
+    link: mailto:3180101168@zju.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/dreamerlyz
   - icon: weixin
     icon_pack: fab
-    link: "uploads/wx_qr-code.jpg"
+    link: uploads/wx_qr-code.jpg
 organizations:
   - name: Zhejiang University
     url: https://www.zju.edu.cn/english/
@@ -24,7 +24,11 @@ education:
   courses:
     - course: BSc Candidate in Resource and Environmental Science
       institution: Zhejiang University
-      year: "2018 - 2022"
+      year: 2018 - 2022
+    - course: Non Graduating Student in Department of Civil and Environmental
+        Engineering
+      institution: National University of Singapore
+      year: ""
 email: 3180101168@zju.edu.cn
 superuser: true
 user_groups:
