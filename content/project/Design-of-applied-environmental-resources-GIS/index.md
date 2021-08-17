@@ -10,6 +10,8 @@ tags:
 date: 2021-08-15T06:31:45.339Z
 draft: false
 featured: false
+url_code: https://github.com/dreamerlyz/FertilizationRecommendationSystem
+url_pdf: ""
 
 image:
   caption: Figure by Yizhen
@@ -27,3 +29,6 @@ The ultimate goal of the system is to use the current advanced component GIS sec
 * Programming language: Microsoft Visual c#2010
 * GIS component: ESRI ArcGIS Engine 10.2
 * Database: Microsoft Access 2010 / 2013
+
+
+[View Source Code](https://github.com/dreamerlyz/FertilizationRecommendationSystem)

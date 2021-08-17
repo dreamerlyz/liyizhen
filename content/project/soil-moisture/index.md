@@ -17,6 +17,7 @@ external_link: ""
 
 draft: false
 featured: True
+url_pdf: "Temporal-and-Spatial-Analysis-of-Soil-Moisture.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -33,11 +34,6 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -25,9 +25,6 @@ education:
     - course: BSc Candidate in Resource and Environmental Science
       institution: Zhejiang University
       year: "2018 - 2022"
-    - course: Non-Graduating Student in Department of Civil and Environmental Engineering
-      institution: National University of Singapore
-      year: "2021 - 2022"
 email: 3180101168@zju.edu.cn
 superuser: true
 user_groups:
