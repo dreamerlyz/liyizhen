@@ -2,7 +2,7 @@
 title: LI Yizhen
 role: Undergraduate Student of Resource and Environmental Science
 avatar_filename: ""
-bio: My research interests include cultural geography and GIS.
+bio: My research interests include cultural geography, urban geography and GIS.
 interests:
   - Urbanization Process
   - Migration
@@ -22,18 +22,21 @@ organizations:
     url: https://www.zju.edu.cn/english/
 education:
   courses:
-    - course: BSc Candidate in Resource and Environmental Science
+    - course: M.A. in Public Administration (Land Resource Management)
+      institution: Zhejiang University
+      year: "2022 - 2024"
+    - course: BSc in Resource and Environmental Science
       institution: Zhejiang University
       year: "2018 - 2022"
-    - course: Non Graduating Student in Department of Civil and Environmental Engineering
+    - course: Visiting Student in Department of Civil and Environmental Engineering
       institution: National University of Singapore
       year: "2021 - 2022"
-email: 3180101168@zju.edu.cn
+email: vivian.yizhen.li@outlook.com
 superuser: true
 user_groups:
   - Zhejiang University
 highlight_name: false
 ---
-LI Yizhen is a fourth-year undergraduate student majoring in resource and environmental science at Zhejiang University. Her research interests include cultural geography and GIS, especially in the urbanization and the migration process. She tries to combine GIS with human geography, casting qualitative as well as quantitative insights on the socio-cultural phenomenon.
+LI Yizhen is a master student majoring in land resource management at Zhejiang University. Her research interests include cultural geography, urban geography and GIS, especially in the urbanization and the migration process. She tries to combine GIS with human geography, casting qualitative as well as quantitative insights on the socio-cultural phenomenon.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
